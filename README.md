@@ -1,4 +1,4 @@
-### A project involving implementation of basic concepts of CCN using CISCO PACKET TRACER.
+### A project involving implementation of basic concepts of CCN using CISCO PACKET TRACER
 
 <details><summary><b>Aim :</b></summary>
 </br>
