@@ -40,6 +40,7 @@ OSI stands for Open Systems Interconnection. It has been developed by ISO â€“ â€
 </details>
 
 <details><summary><b>Simulation Of Project :</b></summary>
+   <img alt="Snippets-7" src="images/LAN2_to_LAN1_simulation.gif"> </img></br></br>
 </br>
 </details>
 
