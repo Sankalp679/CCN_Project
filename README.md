@@ -29,13 +29,13 @@ OSI stands for Open Systems Interconnection. It has been developed by ISO â€“ â€
 
 <details><summary><b>Network Topology :</b></summary>
 </br>
-<img alt="Snippets-2" src="images/Network_Topology.png"></img></br>
+<img alt="Snippets-2" src="images/Network_Topology.PNG"></img></br>
 </br>
 </details>
 
 <details><summary><b>Network Information :</b></summary>
 </br>
-<img alt="Snippets-3" src="images/Network_Information.png"></img></br>
+<img alt="Snippets-3" src="images/Network_Information.PNG"></img></br>
 </br>
 </details>
 
