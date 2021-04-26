@@ -45,12 +45,9 @@ OSI stands for Open Systems Interconnection. It has been developed by ISO â€“ â€
 
 <details><summary><b>Working Snippets :</b></summary>
 </br>
-<img alt="Snippets-4" src="images/work-1.PNG"></img></br>
-</br>
-<img alt="Snippets-5" src="images/work-2.PNG"></img></br>
-</br>
-<img alt="Snippets-6" src="images/work-3.PNG"></img></br>
-</br>
+<img alt="Snippets-4" src="images/work-3.PNG"></img></br>
+<img alt="Snippets-5" src="images/work-1.PNG"></img></br>
+<img alt="Snippets-6" src="images/work-2.PNG"></img></br>
 </details>
 
 <div align="center">
