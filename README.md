@@ -13,7 +13,7 @@ OSI stands for Open Systems Interconnection. It has been developed by ISO â€“ â€
 <img alt="Snippets-1" src="images/OSI.png"></img></br>
 </details>
 
-<details><summary><b>Components of CCN used in this project:</b></summary>
+<details><summary><b>Components of CCN used in this project :</b></summary>
 </br>
 
 **1. Computers/ Wireless Laptops :** It is a layer 7 (Application layer) device. End Nodes (End Devices).
@@ -27,5 +27,22 @@ OSI stands for Open Systems Interconnection. It has been developed by ISO â€“ â€
 **5. Access Point :** It is a layer 2 (Data Link Layer) device. A wireless access point, or more generally just access point, is a networking hardware device that allows other Wi-Fi devices to connect to a wired network.
 </details>
 
+<details><summary><b>Network Topology :</b></summary>
+</br>
+</br>
+<img alt="Snippets-2" src="images/Network_Topology.png"></img></br>
+</br>
 
+<details><summary><b>Network Information :</b></summary>
+</br>
 
+<details><summary><b>Simulation Of Project :</b></summary>
+</br>
+
+<details><summary><b>Working Snippets :</b></summary>
+</br>
+
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+  <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
+</div>
