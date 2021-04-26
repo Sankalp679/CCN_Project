@@ -2,7 +2,9 @@
 
 <details><summary><b>Aim :</b></summary>
 </br>
-   Construct and simulate a Network consisting of 4 different LANs using routers and switches. Connect the LANS using static routing. Each LAN should have a minimum 3 end devices    (PCs/Laptops). 
+   1. To construct and simulate a Network consisting of 4 different LANs using routers and switches.</br>
+   2. To connect the LANS using static routing.</br>
+   3. Each LAN have a 4 end devices (PCs/Laptops).
 </details>
 
 <details><summary><b>Layers of OSI Model :</b></summary>
