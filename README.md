@@ -41,7 +41,7 @@ OSI stands for Open Systems Interconnection. It has been developed by ISO â€“ â€
 
 <details><summary><b>Simulation Of Project :</b></summary>
    </br>
-   Simulation of **pinging** from **LAN 2(84.10.20.3)** to **LAN1 PC (84.10.10.3)** using **static routing**.
+   Simulation of <b>pinging</b> from <b>LAN 2(84.10.20.3)</b> to <b>LAN1 PC (84.10.10.3)</b> using <b>static routing</b>.
    </br>
    </br>
    <img alt="Snippets-7" src="images/LAN2_to_LAN1_simulation.gif"> </img></br></br>
