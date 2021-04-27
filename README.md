@@ -57,6 +57,11 @@ OSI stands for Open Systems Interconnection. It has been developed by ISO â€“ â€
 <img alt="Snippets-6" src="images/work-2.PNG"></img></br>
 </details>
 
+<details><summary><b>Applications :</b></summary>
+</br>
+It can be used in Industry/School that have different LAN's for different buildings(LAN's) and if one computer in some building(LAN) wants to communicate with a computer in some other building(LAN).
+</details>
+
 <div align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
   <img src="https://forthebadge.com/images/badges/built-by-developers.svg" />
