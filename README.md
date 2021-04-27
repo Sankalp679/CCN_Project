@@ -59,7 +59,7 @@ OSI stands for Open Systems Interconnection. It has been developed by ISO â€“ â€
 
 <details><summary><b>Applications :</b></summary>
 </br>
-It can be used in Industry/School that have different LAN's for different buildings(LAN's) and if one computer in some building(LAN) wants to communicate(send data) with a computer in some other building(LAN).
+It can be used in industries/Schools that have different LANs for different buildings(LANs) and if one computer in some building(LAN) wants to communicate(send data) with a computer in some other building(LAN).
 </details>
 
 <div align="center">
